@@ -51,7 +51,7 @@ Constraints:
 
 - Language: python3
 - Difficulty: Easy
-- Acceptance: 26.04
+- Acceptance: N/A
 - Tags: 
 - URL: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15
 
