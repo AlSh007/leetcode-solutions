@@ -2,13 +2,13 @@ class Solution:
     def sumCounts(self, nums: List[int]) -> int:
         n = len(nums)
 
-        res = 0
+        ans = 0
 
-        for i in range(n):
-            s = set()
-            for j in range(i, n):
-                s.add(nums[j])
-                d = len(s)
-                res += d * d
+        for l in range(n):
+            seen, cnt = 0, 0
+            for x in nums[l:]:
+                cnt += ((seen >> x) & 1) == 0 #this checks if x is a distinct number not present on seen 
+                seen |= (1 << x) 
+                ans += cnt * cnt
         
-        return res
+        return ans
