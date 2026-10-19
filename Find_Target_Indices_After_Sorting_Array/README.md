@@ -48,7 +48,7 @@ Constraints:
 
 - Language: python3
 - Difficulty: Easy
-- Acceptance: 79.7
+- Acceptance: 100.00
 - Tags: 
 - URL: https://leetcode.com/problems/find-target-indices-after-sorting-array/?envType=daily-question&envId=2026-10-19
 
