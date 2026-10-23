@@ -52,7 +52,7 @@ Constraints:
 
 - Language: python3
 - Difficulty: Medium
-- Acceptance: N/A
+- Acceptance: 48.6
 - Tags: 
 - URL: https://leetcode.com/problems/maximum-k-to-sort-a-permutation/?envType=daily-question&envId=2026-10-23
 
