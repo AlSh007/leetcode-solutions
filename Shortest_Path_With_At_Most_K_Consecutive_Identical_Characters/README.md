@@ -65,10 +65,10 @@ Constraints:
 ## Metadata
 
 - Language: python3
-- Difficulty: Medium
-- Acceptance: 98.80
+- Difficulty: Hard
+- Acceptance: 94.58
 - Tags: 
-- URL: https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/submissions/2185330118/?envType=daily-question&envId=2026-10-30
+- URL: https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/submissions/2185336143/?envType=daily-question&envId=2026-10-30
 
 ## Files
 
