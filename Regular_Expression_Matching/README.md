@@ -48,10 +48,10 @@ Constraints:
 ## Metadata
 
 - Language: python3
-- Difficulty: Hard
-- Acceptance: N/A
+- Difficulty: Easy
+- Acceptance: 100
 - Tags: 
-- URL: https://leetcode.com/problems/regular-expression-matching/
+- URL: https://leetcode.com/problems/regular-expression-matching/solutions/
 
 ## Files
 
