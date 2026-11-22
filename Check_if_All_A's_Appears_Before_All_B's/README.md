@@ -46,7 +46,7 @@ Constraints:
 
 - Language: python3
 - Difficulty: Easy
-- Acceptance: 100
+- Acceptance: N/A
 - Tags: 
 - URL: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/?envType=daily-question&envId=2026-11-22
 
