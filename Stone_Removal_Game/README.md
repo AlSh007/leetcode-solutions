@@ -1,0 +1,53 @@
+# Stone_Removal_Game
+
+Can you solve this real interview question? Stone Removal Game - Alice and Bob are playing a game where they take turns removing stones from a pile, with Alice going first.
+
+ * Alice starts by removing exactly 10 stones on her first turn.
+ * For each subsequent turn, each player removes exactly 1 fewer stone than the previous opponent.
+
+The player who cannot make a move loses the game.
+
+Given a positive integer n, return true if Alice wins the game and false otherwise.
+
+ 
+
+Example 1:
+
+Input: n = 12
+
+Output: true
+
+Explanation:
+
+ * Alice removes 10 stones on her first turn, leaving 2 stones for Bob.
+ * Bob cannot remove 9 stones, so Alice wins.
+
+Example 2:
+
+Input: n = 1
+
+Output: false
+
+Explanation:
+
+ * Alice cannot remove 10 stones, so Alice loses.
+
+ 
+
+Constraints:
+
+ * 1 <= n <= 50
+
+---
+
+## Metadata
+
+- Language: python3
+- Difficulty: Easy
+- Acceptance: 100
+- Tags: 
+- URL: https://leetcode.com/problems/stone-removal-game/?envType=daily-question&envId=2026-11-26
+
+## Files
+
+- Stone_Removal_Game.py
